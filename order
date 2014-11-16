@@ -20,6 +20,8 @@ public class Order {
 	private static int[] memberstate;
 	private static int[] deliverystate;
 	private static int[] ordernumber;
+	
+	int a = 0;
 
 	public void getInfo() {
 
